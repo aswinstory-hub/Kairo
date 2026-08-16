@@ -1,5 +1,5 @@
-Kairo
+# Kairo
 
-A simple language with Python like syntax and C++ like speed
+### A simple language with Python like syntax and C++ like speed
 
-Work in Progress
+**Work in Progress**
