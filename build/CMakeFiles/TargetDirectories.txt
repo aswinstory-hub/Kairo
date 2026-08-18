@@ -1,0 +1,5 @@
+D:/dev/Kairo/build/CMakeFiles/edit_cache.dir
+D:/dev/Kairo/build/CMakeFiles/rebuild_cache.dir
+D:/dev/Kairo/build/compiler/CMakeFiles/kairo.dir
+D:/dev/Kairo/build/compiler/CMakeFiles/edit_cache.dir
+D:/dev/Kairo/build/compiler/CMakeFiles/rebuild_cache.dir
