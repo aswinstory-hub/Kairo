@@ -1,4 +1,4 @@
-add_executable(kairo
+add_executable(kc
     src/main.cpp
 )
 
