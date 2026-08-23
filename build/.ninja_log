@@ -23,3 +23,7 @@
 49	2311	8091864938698627	core/CMakeFiles/kairo_core.dir/src/lexer.cpp.obj	9b5d506fb57ba70b
 2312	2543	8091864961327807	core/kairo_core.lib	b142feae1fa722cc
 2543	2868	8091864963635497	compiler/kc.exe	1a3075dec397dcc6
+46	1603	8091908579132451	compiler/CMakeFiles/kc.dir/src/compiler.cpp.obj	daf9591a72eb7c83
+33	1743	8091908579011392	core/CMakeFiles/kairo_core.dir/src/lexer.cpp.obj	9b5d506fb57ba70b
+1744	1910	8091908596111701	core/kairo_core.lib	b142feae1fa722cc
+1910	2151	8091908597778365	compiler/kc.exe	1a3075dec397dcc6
