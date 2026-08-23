@@ -1,7 +1,7 @@
 // lexer.hpp
-
+# include <string>
 namespace lexer {
 
-  void log();
+  void tokenize(std::string path);
 
 }
