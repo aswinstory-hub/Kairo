@@ -2532,9 +2532,9 @@ events:
       - "C:/Tools/CMAKE/bin/"
       - "C:/Tools/CMAKE/sbin/"
       - "C:/Tools/CMAKE/"
-      - "C:/Program Files (x86)/Axiom/bin/"
-      - "C:/Program Files (x86)/Axiom/sbin/"
-      - "C:/Program Files (x86)/Axiom/"
+      - "C:/Program Files (x86)/Kairo/bin/"
+      - "C:/Program Files (x86)/Kairo/sbin/"
+      - "C:/Program Files (x86)/Kairo/"
     searched_directories:
       - "C:/Program Files/glzr.io/GlazeWM/cli/rc.com"
       - "C:/Program Files/glzr.io/GlazeWM/cli/rc.exe"
@@ -2638,15 +2638,15 @@ events:
       - "C:/Tools/CMAKE/rc.com"
       - "C:/Tools/CMAKE/rc.exe"
       - "C:/Tools/CMAKE/rc"
-      - "C:/Program Files (x86)/Axiom/bin/rc.com"
-      - "C:/Program Files (x86)/Axiom/bin/rc.exe"
-      - "C:/Program Files (x86)/Axiom/bin/rc"
-      - "C:/Program Files (x86)/Axiom/sbin/rc.com"
-      - "C:/Program Files (x86)/Axiom/sbin/rc.exe"
-      - "C:/Program Files (x86)/Axiom/sbin/rc"
-      - "C:/Program Files (x86)/Axiom/rc.com"
-      - "C:/Program Files (x86)/Axiom/rc.exe"
-      - "C:/Program Files (x86)/Axiom/rc"
+      - "C:/Program Files (x86)/Kairo/bin/rc.com"
+      - "C:/Program Files (x86)/Kairo/bin/rc.exe"
+      - "C:/Program Files (x86)/Kairo/bin/rc"
+      - "C:/Program Files (x86)/Kairo/sbin/rc.com"
+      - "C:/Program Files (x86)/Kairo/sbin/rc.exe"
+      - "C:/Program Files (x86)/Kairo/sbin/rc"
+      - "C:/Program Files (x86)/Kairo/rc.com"
+      - "C:/Program Files (x86)/Kairo/rc.exe"
+      - "C:/Program Files (x86)/Kairo/rc"
     found: false
     search_context:
       ENV{PATH}:
@@ -2675,12 +2675,12 @@ events:
         - "C:\\Users\\aswin\\AppData\\Local\\Programs\\Zed\\bin"
         - "C:\\Users\\aswin\\.dotnet\\tools"
         - "C:\\Users\\aswin\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe\\helix-25.07.1-x86_64-windows"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Axiom"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Kairo"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Tools/CMAKE"
-        - "C:/Program Files (x86)/Axiom"
+        - "C:/Program Files (x86)/Kairo"
   -
     kind: "find-v1"
     backtrace:
@@ -2736,9 +2736,9 @@ events:
       - "C:/Tools/CMAKE/bin/"
       - "C:/Tools/CMAKE/sbin/"
       - "C:/Tools/CMAKE/"
-      - "C:/Program Files (x86)/Axiom/bin/"
-      - "C:/Program Files (x86)/Axiom/sbin/"
-      - "C:/Program Files (x86)/Axiom/"
+      - "C:/Program Files (x86)/Kairo/bin/"
+      - "C:/Program Files (x86)/Kairo/sbin/"
+      - "C:/Program Files (x86)/Kairo/"
     searched_directories:
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.com"
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.exe"
@@ -2817,12 +2817,12 @@ events:
         - "C:\\Users\\aswin\\AppData\\Local\\Programs\\Zed\\bin"
         - "C:\\Users\\aswin\\.dotnet\\tools"
         - "C:\\Users\\aswin\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe\\helix-25.07.1-x86_64-windows"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Axiom"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Kairo"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Tools/CMAKE"
-        - "C:/Program Files (x86)/Axiom"
+        - "C:/Program Files (x86)/Kairo"
   -
     kind: "find-v1"
     backtrace:
@@ -2881,9 +2881,9 @@ events:
       - "C:/Tools/CMAKE/bin/"
       - "C:/Tools/CMAKE/sbin/"
       - "C:/Tools/CMAKE/"
-      - "C:/Program Files (x86)/Axiom/bin/"
-      - "C:/Program Files (x86)/Axiom/sbin/"
-      - "C:/Program Files (x86)/Axiom/"
+      - "C:/Program Files (x86)/Kairo/bin/"
+      - "C:/Program Files (x86)/Kairo/sbin/"
+      - "C:/Program Files (x86)/Kairo/"
     searched_directories:
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.com"
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.exe"
@@ -2962,12 +2962,12 @@ events:
         - "C:\\Users\\aswin\\AppData\\Local\\Programs\\Zed\\bin"
         - "C:\\Users\\aswin\\.dotnet\\tools"
         - "C:\\Users\\aswin\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe\\helix-25.07.1-x86_64-windows"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Axiom"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Kairo"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Tools/CMAKE"
-        - "C:/Program Files (x86)/Axiom"
+        - "C:/Program Files (x86)/Kairo"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -2977,8 +2977,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-7wcl3r"
-      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-7wcl3r"
+      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-lu332o"
+      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-lu332o"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Tools/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -2990,16 +2990,16 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-7wcl3r'
+        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-lu332o'
         
-        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_51f2e
-        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_51f2e.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_51f2e.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_51f2e.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Tools/CMAKE/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -v -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_51f2e.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_51f2e.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_51f2e.lib -Xlinker /pdb:cmTC_51f2e.pdb -Xlinker /version:0.0     && cd ."
+        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_c645b
+        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_c645b.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_c645b.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_c645b.dir/CMakeCXXCompilerABI.cpp.obj -c C:/Tools/CMAKE/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -v -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_c645b.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_c645b.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_c645b.lib -Xlinker /pdb:cmTC_c645b.pdb -Xlinker /version:0.0     && cd ."
         clang version 22.1.8 (https://github.com/llvm/llvm-project ca7933e47d3a3451d81e72ac174dcb5aa28b59d1)
         Target: x86_64-pc-windows-msvc
         Thread model: posix
         InstalledDir: C:\\Tools\\LLVM\\bin
-         "C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_51f2e.exe "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\um\\\\x64" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\x86_64-pc-windows-msvc" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_51f2e.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_51f2e.lib /pdb:cmTC_51f2e.pdb /version:0.0
+         "C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_c645b.exe "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\um\\\\x64" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\x86_64-pc-windows-msvc" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_c645b.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_c645b.lib /pdb:cmTC_c645b.pdb /version:0.0
         
       exitCode: 0
   -
@@ -3012,7 +3012,7 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        link line: [ "C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_51f2e.exe "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\um\\\\x64" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\x86_64-pc-windows-msvc" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_51f2e.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_51f2e.lib /pdb:cmTC_51f2e.pdb /version:0.0] ==> linker [C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link]
+        link line: [ "C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_c645b.exe "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Microsoft Visual Studio\\\\18\\\\BuildTools\\\\VC\\\\Tools\\\\MSVC\\\\14.51.36231\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.26100.0\\\\um\\\\x64" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\x86_64-pc-windows-msvc" "-libpath:C:\\\\Tools\\\\LLVM\\\\lib\\\\clang\\\\22\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_c645b.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_c645b.lib /pdb:cmTC_c645b.pdb /version:0.0] ==> linker [C:\\\\Tools\\\\LLVM\\\\bin\\\\lld-link]
         linker tool for 'CXX': C:/Tools/LLVM/bin/lld-link 
         implicit libs: []
         implicit objs: []
@@ -3064,8 +3064,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-fa76of"
-      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-fa76of"
+      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-2fkrl1"
+      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-2fkrl1"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Tools/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -3076,11 +3076,11 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: false
       stdout: |
-        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-fa76of'
+        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-2fkrl1'
         
-        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_f5175
-        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_f5175.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_f5175.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_f5175.dir/feature_tests.cxx.obj -c D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-fa76of/feature_tests.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_f5175.dir/feature_tests.cxx.obj -o cmTC_f5175.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_f5175.lib -Xlinker /pdb:cmTC_f5175.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_5da82
+        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_5da82.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_5da82.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_5da82.dir/feature_tests.cxx.obj -c D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-2fkrl1/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_5da82.dir/feature_tests.cxx.obj -o cmTC_5da82.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_5da82.lib -Xlinker /pdb:cmTC_5da82.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
         
       exitCode: 0
   -
@@ -3095,8 +3095,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-o1gblz"
-      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-o1gblz"
+      source: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-b111he"
+      binary: "D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-b111he"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Tools/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -3107,11 +3107,11 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: false
       stdout: |
-        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-o1gblz'
+        Change Dir: 'D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-b111he'
         
-        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_a9fd8
-        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_a9fd8.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_a9fd8.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_a9fd8.dir/feature_tests.cxx.obj -c D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-o1gblz/feature_tests.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_a9fd8.dir/feature_tests.cxx.obj -o cmTC_a9fd8.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_a9fd8.lib -Xlinker /pdb:cmTC_a9fd8.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        Run Build Command(s): C:/Tools/ninja/ninja.exe -v cmTC_8a27f
+        [1/2] C:\\Tools\\LLVM\\bin\\clang++.exe -D_MBCS  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_8a27f.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_8a27f.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_8a27f.dir/feature_tests.cxx.obj -c D:/dev/Kairo/build/CMakeFiles/CMakeScratch/TryCompile-b111he/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\Tools\\LLVM\\bin\\clang++.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld CMakeFiles/cmTC_8a27f.dir/feature_tests.cxx.obj -o cmTC_8a27f.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_8a27f.lib -Xlinker /pdb:cmTC_8a27f.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
         
       exitCode: 0
 ...
@@ -3173,9 +3173,9 @@ events:
       - "C:/Tools/CMAKE/bin/"
       - "C:/Tools/CMAKE/sbin/"
       - "C:/Tools/CMAKE/"
-      - "C:/Program Files (x86)/Axiom/bin/"
-      - "C:/Program Files (x86)/Axiom/sbin/"
-      - "C:/Program Files (x86)/Axiom/"
+      - "C:/Program Files (x86)/Kairo/bin/"
+      - "C:/Program Files (x86)/Kairo/sbin/"
+      - "C:/Program Files (x86)/Kairo/"
     searched_directories:
       - "C:/Program Files/glzr.io/GlazeWM/cli/rc.com"
       - "C:/Program Files/glzr.io/GlazeWM/cli/rc.exe"
@@ -3279,15 +3279,15 @@ events:
       - "C:/Tools/CMAKE/rc.com"
       - "C:/Tools/CMAKE/rc.exe"
       - "C:/Tools/CMAKE/rc"
-      - "C:/Program Files (x86)/Axiom/bin/rc.com"
-      - "C:/Program Files (x86)/Axiom/bin/rc.exe"
-      - "C:/Program Files (x86)/Axiom/bin/rc"
-      - "C:/Program Files (x86)/Axiom/sbin/rc.com"
-      - "C:/Program Files (x86)/Axiom/sbin/rc.exe"
-      - "C:/Program Files (x86)/Axiom/sbin/rc"
-      - "C:/Program Files (x86)/Axiom/rc.com"
-      - "C:/Program Files (x86)/Axiom/rc.exe"
-      - "C:/Program Files (x86)/Axiom/rc"
+      - "C:/Program Files (x86)/Kairo/bin/rc.com"
+      - "C:/Program Files (x86)/Kairo/bin/rc.exe"
+      - "C:/Program Files (x86)/Kairo/bin/rc"
+      - "C:/Program Files (x86)/Kairo/sbin/rc.com"
+      - "C:/Program Files (x86)/Kairo/sbin/rc.exe"
+      - "C:/Program Files (x86)/Kairo/sbin/rc"
+      - "C:/Program Files (x86)/Kairo/rc.com"
+      - "C:/Program Files (x86)/Kairo/rc.exe"
+      - "C:/Program Files (x86)/Kairo/rc"
     found: false
     search_context:
       ENV{PATH}:
@@ -3316,12 +3316,12 @@ events:
         - "C:\\Users\\aswin\\AppData\\Local\\Programs\\Zed\\bin"
         - "C:\\Users\\aswin\\.dotnet\\tools"
         - "C:\\Users\\aswin\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe\\helix-25.07.1-x86_64-windows"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Axiom"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Kairo"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Tools/CMAKE"
-        - "C:/Program Files (x86)/Axiom"
+        - "C:/Program Files (x86)/Kairo"
   -
     kind: "find-v1"
     backtrace:
@@ -3377,9 +3377,9 @@ events:
       - "C:/Tools/CMAKE/bin/"
       - "C:/Tools/CMAKE/sbin/"
       - "C:/Tools/CMAKE/"
-      - "C:/Program Files (x86)/Axiom/bin/"
-      - "C:/Program Files (x86)/Axiom/sbin/"
-      - "C:/Program Files (x86)/Axiom/"
+      - "C:/Program Files (x86)/Kairo/bin/"
+      - "C:/Program Files (x86)/Kairo/sbin/"
+      - "C:/Program Files (x86)/Kairo/"
     searched_directories:
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.com"
       - "C:/Program Files/glzr.io/GlazeWM/cli/llvm-rc.exe"
@@ -3458,10 +3458,10 @@ events:
         - "C:\\Users\\aswin\\AppData\\Local\\Programs\\Zed\\bin"
         - "C:\\Users\\aswin\\.dotnet\\tools"
         - "C:\\Users\\aswin\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe\\helix-25.07.1-x86_64-windows"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Axiom"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/Kairo"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Tools/CMAKE"
-        - "C:/Program Files (x86)/Axiom"
+        - "C:/Program Files (x86)/Kairo"
 ...

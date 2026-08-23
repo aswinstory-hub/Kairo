@@ -2,7 +2,8 @@
 	"InstallScripts" : 
 	[
 		"D:/dev/Kairo/build/cmake_install.cmake",
-		"D:/dev/Kairo/build/compiler/cmake_install.cmake"
+		"D:/dev/Kairo/build/compiler/cmake_install.cmake",
+		"D:/dev/Kairo/build/core/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

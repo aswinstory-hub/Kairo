@@ -1,6 +1,5 @@
 # ninja log v7
-39	1528	8087664512313224	build.ninja	b2024d70b07fee7e
-39	1528	8087664512313224	D:/dev/Kairo/build/cmake_install.cmake	b2024d70b07fee7e
-39	1528	8087664512313224	D:/dev/Kairo/build/core/cmake_install.cmake	b2024d70b07fee7e
-134	9423	8087664516968180	compiler/CMakeFiles/kairo.dir/src/main.cpp.obj	fbf8193cd38d365b
-9429	10128	8087664609915720	compiler/kairo.exe	2a16ed3f1a56841c
+40	145	8091717743230703	compiler/CMakeFiles/kc.dir/src/compiler.cpp.obj	daf9591a72eb7c83
+27	1185	8091717743099730	core/CMakeFiles/kairo_core.dir/src/lexer.cpp.obj	9b5d506fb57ba70b
+1190	1338	8091717754721169	core/kairo_core.lib	b142feae1fa722cc
+1338	1560	8091717756206392	compiler/kc.exe	1a3075dec397dcc6

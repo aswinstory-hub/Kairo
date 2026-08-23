@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/dev/Kairo/build",
+  "command": "C:\\Tools\\LLVM\\bin\\clang++.exe -ID:/dev/Kairo/compiler/include -ID:/dev/Kairo/core/include -O0 -g -Xclang -gcodeview -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o compiler\\CMakeFiles\\kc.dir\\src\\compiler.cpp.obj -c D:\\dev\\Kairo\\compiler\\src\\compiler.cpp",
+  "file": "D:/dev/Kairo/compiler/src/compiler.cpp",
+  "output": "D:/dev/Kairo/build/compiler/CMakeFiles/kc.dir/src/compiler.cpp.obj"
+},
+{
+  "directory": "D:/dev/Kairo/build",
+  "command": "C:\\Tools\\LLVM\\bin\\clang++.exe -ID:/dev/Kairo/core/include -O0 -g -Xclang -gcodeview -std=c++20 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o core\\CMakeFiles\\kairo_core.dir\\src\\lexer.cpp.obj -c D:\\dev\\Kairo\\core\\src\\lexer.cpp",
+  "file": "D:/dev/Kairo/core/src/lexer.cpp",
+  "output": "D:/dev/Kairo/build/core/CMakeFiles/kairo_core.dir/src/lexer.cpp.obj"
+}
+]

@@ -10,3 +10,4 @@ project(Kairo
     set(CMAKE_CXX_EXTENSIONS OFF)
 
     add_subdirectory(compiler)
+    add_subdirectory(core)

@@ -1,8 +1,13 @@
 add_executable(kc
-    src/main.cpp
+    src/compiler.cpp
 )
 
-target_include_directories(kairo
+target_link_libraries(kc
+    PRIVATE
+        kairo_core
+)
+
+target_include_directories(kc
     PRIVATE
       ${CMAKE_CURRENT_SOURCE_DIR}/include
 )

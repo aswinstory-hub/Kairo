@@ -14,15 +14,6 @@
 # EXTERNAL cache entries
 ########################
 
-//Value Computed by CMake
-Axiom_BINARY_DIR:STATIC=D:/dev/Kairo/build
-
-//Value Computed by CMake
-Axiom_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-Axiom_SOURCE_DIR:STATIC=D:/dev/Kairo
-
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/ProgramData/mingw64/mingw64/bin/addr2line.exe
 
@@ -89,14 +80,16 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Enable/Disable output of build database during the build.
 CMAKE_EXPORT_BUILD_DATABASE:BOOL=
 
-//Enable/Disable output of compile commands during generation.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
+//Enable output of a compile_commands.json file listing the exact
+// compiler invocation for each translation unit. Implemented by
+// the Makefile and Ninja generators; ignored elsewhere.
+CMAKE_EXPORT_COMPILE_COMMANDS:UNINITIALIZED=ON
 
 //Value Computed by CMake.
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=D:/dev/Kairo/build/CMakeFiles/pkgRedirects
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Axiom
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Kairo
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Tools/LLVM/bin/lld-link.exe
@@ -143,7 +136,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Axiom
+CMAKE_PROJECT_NAME:STATIC=Kairo
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
@@ -246,6 +239,15 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Value Computed by CMake
+Kairo_BINARY_DIR:STATIC=D:/dev/Kairo/build
+
+//Value Computed by CMake
+Kairo_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Kairo_SOURCE_DIR:STATIC=D:/dev/Kairo
+
 
 ########################
 # INTERNAL cache entries
@@ -346,7 +348,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
